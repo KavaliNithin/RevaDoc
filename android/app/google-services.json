@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289461450436",
+    "project_id": "revadoc-7f3c6",
+    "storage_bucket": "revadoc-7f3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289461450436:android:45e4f4366096d68d77fb91",
+        "android_client_info": {
+          "package_name": "com.example.reva_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289461450436-pj1vp57d7lmuf2tnqnpurtlo94jlrsji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_zadg0ICP-hnbKZAIWD6Qf5po6Fv3wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289461450436-pj1vp57d7lmuf2tnqnpurtlo94jlrsji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
